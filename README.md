@@ -39,19 +39,6 @@ This project is an interactive Sales Dashboard built using Power BI to analyze b
 
 ---
 
-## Dashboard Screenshots
-
-### Main Dashboard
-![Main Dashboard](screenshots/sales-dashboard-overview.png)
-
-### Category and Sub-Category Analysis
-![Category Dashboard](screenshots/category-analysis-dashboard.png)
-
-### Region and State Level Analysis
-![Region Dashboard](screenshots/region-analysis-dashboard.png)
-
----
-
 ## Key Insights
 - Technology category generated the highest sales.
 - Consumer segment contributed maximum revenue.
