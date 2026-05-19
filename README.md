@@ -1,41 +1,76 @@
 # powerbi-dashboard
-Project Overview
 
-This project is an interactive Sales Dashboard built using Power BI to analyze sales performance across regions, categories, and customer segments.
+## Project Overview
+This project is an interactive Sales Dashboard built using Power BI to analyze business performance across regions, categories, customer segments, and yearly sales trends.
 
-Features
-Revenue, Profit, and Quantity KPIs
-Region and State Analysis
-Category/Sub-Category Insights
-Quarterly and Yearly Sales Trends
-Interactive Slicers and Filters
-Map Visualization
-Tools Used
-Power BI
-DAX
-Data Modeling
-Data Visualization
-Dashboard Screenshots
-Main Dashboard
+---
 
-(Upload first image)
+## Dashboard Features
 
-Category & Sub-Category Analysis
+### KPI Cards
+- Total Revenue
+- Total Profit
+- Total Quantity Sold
 
-(Upload second image)
+### Sales Analysis
+- Sales and Profit by Year
+- Sales by Quarter
+- Category-wise Analysis
+- Segment-wise Analysis
 
-Region & State Analysis
+### Regional Insights
+- State-wise Sales Map
+- Region and State Analysis
+- City-wise Profit and Quantity
 
-(Upload third image)
+### Interactive Features
+- Date Slicers
+- Category Filters
+- Region Filters
+- Year Filters
 
-Key Insights
-Technology category achieved maximum sales
-Consumer segment generated highest revenue
-Sales increased consistently over the years
-Some states contributed significantly higher profits
-Skills Demonstrated
-Business Intelligence
-Dashboard Development
-Data Analytics
-Data Storytelling
-KPI Reporting
+---
+
+## Tools & Technologies
+- Power BI
+- DAX
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Dashboard Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/sales-dashboard-overview.png)
+
+### Category and Sub-Category Analysis
+![Category Dashboard](screenshots/category-analysis-dashboard.png)
+
+### Region and State Level Analysis
+![Region Dashboard](screenshots/region-analysis-dashboard.png)
+
+---
+
+## Key Insights
+- Technology category generated the highest sales.
+- Consumer segment contributed maximum revenue.
+- Sales increased consistently over the years.
+- Regional analysis identified top-performing states.
+
+---
+
+## Skills Demonstrated
+- Dashboard Development
+- Data Analytics
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Author
+Gowtham T
+
+
+
